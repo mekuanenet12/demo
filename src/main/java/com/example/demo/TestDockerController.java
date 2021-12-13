@@ -8,6 +8,6 @@ public class TestDockerController {
 
     @RequestMapping
     public String helloWorld(){
-        return "Hello world After";
+        return "Hello world After test";
     }
 }
